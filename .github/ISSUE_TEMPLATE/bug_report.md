@@ -1,27 +1,29 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Lave en bug report
 title: ''
 labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+ENG: The bug report can also be in english 
+
+**Beskriv fejlen**
+En klar beskrivelse af hvad fejlen er.
 
 **To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Steps til at genskabe fejlen:
+1. Gå til '...'
+2. Klik på '....'
+3. Scroll ned til '....'
+4. Se fejlen
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Forventet opførelse**
+En klar beskrivelse af hvad du forventede ville ske
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Additional context**
-Add any other context about the problem here.
+Tilføj eventuelt skærmbilleder for at hjælpe med at forklare dit problem.
+Tilføj enhver anden kontekst om problemet her.
+**Extra kontekst**
+Tilføj enhver anden kontekst om problemet her.
